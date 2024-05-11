@@ -1,0 +1,366 @@
+body{
+  background:  #9f4b4e;
+}
+.container{
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+}
+.rectangle-66 {
+  background: #8f2b2f;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0px 0px 1px 0px;
+  width: 1530px;
+  height: 233px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.rectangle-49 {
+  background: #742f32;
+  border-radius: 0px 30px 30px 0px;
+  width: 1322px;
+  height: 28px;
+  color: #ffffff;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 15px;
+
+}
+
+.rectangle-62 {
+  background: linear-gradient(
+    3.1deg,
+    rgba(217, 217, 217, 1) 0%,
+    rgba(115, 115, 115, 0) 100%
+  );
+  width: 1530px;
+  height: 231px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.pic1 {
+  width: 470px;
+  height: 233.27px;
+  position: absolute;
+  left: 1px;
+  top: -0.76px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.pic2 {
+  width: 592px;
+  height: 233.27px;
+  position: absolute;
+  left: 477px;
+  top: -0.76px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.pic3 {
+  width: 475px;
+  height: 233.27px;
+  position: absolute;
+  left: 1070px;
+  top: -0.76px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.plsp-alumnni-assoc {
+  position: absolute;
+  inset: 0;
+}
+.group-12 {
+  width: 375px;
+  height: 181px;
+  position: static;
+}
+.portal {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 84px;
+  font-weight: 600;
+  position: absolute;
+  left: 234px;
+  top: 107px;
+}
+.alumni {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 86px;
+  font-weight: 600;
+  position: absolute;
+  left: 234px;
+  top: 28px;
+  width: 375px;
+  height: 89px;
+}
+.pamantasan-ng-lungsod-ng-san-pablo {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  opacity: 0.5;
+  position: absolute;
+  left: 242px;
+  top: 28px;
+}
+.logo {
+  width: 145.4px;
+  height: 144px;
+  position: static;
+}
+.ellipse-2 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 145.4px;
+  height: 144px;
+  position: absolute;
+  left: 66px;
+  top: 24px;
+}
+.image-1 {
+  width: 130.14px;
+  height: 130.81px;
+  position: absolute;
+  left: 73.47px;
+  top: 30.53px;
+  object-fit: cover;
+}
+
+::placeholder{
+  color: #ffffff;
+}
+input{
+  font-size: medium;
+  padding: 18px 20px;
+  color: #ffffff;
+  width: 100%;
+  max-width: 536px; 
+  box-sizing: border-box; 
+}
+.student-id-input input {
+  background: rgba(217, 217, 217, 0);
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 536px;
+  height: 46px;
+  transition: border-color 0.3s ease;
+  box-sizing: border-box;
+}
+.maindiv{
+  width: 100%;
+  display: flex;
+  margin-left: 80px;
+  padding: 50px;
+}
+.subdiv1{
+  width: 50%;
+}
+.subdiv2{
+  width: 50%;
+}
+
+.rectangle-67 {
+  background: #9f4b4e;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 1002px;
+  height: 346px;
+}
+.rectangle-67 input{
+  border-radius: 30px;
+  left: calc(50% - 495px);
+  top: 3500px;
+  transition: border-color 0.3s ease;
+}
+
+.group-31 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-68 {
+  background: rgba(255, 255, 255, 0.61);
+  border-radius: 30px;
+  width: 185px;
+  height: 185px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 36%; 
+  margin-top: 30px;
+}
+.solar-upload-linear {
+  width: 71px;
+  height: 71px;
+  left: 685px;
+  top: 3192px;
+  overflow: hidden;
+}
+.group {
+  width: 83.33%;
+  height: 83.33%;
+  right: 8.33%;
+  left: 8.33%;
+  bottom: 8.33%;
+  top: 8.33%;
+  overflow: visible;
+}
+.rectangle-69 {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 114px;
+  height: 42px;
+  left: calc(50% - 57px);
+  top: 3282px;
+}
+.upload {
+  color: #353535;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+
+}
+.notice{
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+button {
+  border-radius: 30px;
+  padding: 18px 30px;
+  font-size: medium;
+  color: #ffffff;
+  background-color: #742f32;
+  border-color: #ffffff;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-left: 51%;
+  margin-bottom: 100px;
+}
+button:hover{
+  background-color: #ffffff;
+  color: #353535;
+  border-color: #353535;
+  transform: scale(1.05);
+}
+.group-25 {
+  position: absolute;
+  inset: 0;
+}
+.fluent-arrow-exit-20-filled {
+  width: 39px;
+  height: 39px;
+  position: absolute;
+  left: 73px;
+  top: 253px;
+  transform: translate(-39px, 0px);
+  overflow: visible;
+}
+.go-back-to-login-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 81px;
+  top: 260px;
+}
+
+input[type="file"]{
+  display: none;
+}
+label{
+  display: flow-root;
+  text-transform: uppercase;
+  color: #ffffff;
+  background: #742f32;
+  text-align: center;
+  padding: 10px;
+  font-size: 10px;
+  letter-spacing: 1.5px;
+  user-select: none;
+  cursor: pointer;
+  border-radius: 30px;
+  border-color: #353535;
+}
+.input:focus{
+  border-color:#ffffff;
+}
+.student-id-input {
+  width: 100%;
+  margin-bottom: 10px;
+}
+label:hover{
+  background-color: #ffffff;
+  color: #353535;
+  border-color: #353535;
+  transform: scale(1.05);
+}
+.panel{
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  width: 50%;
+  height: 300px;
+  border: 5px solid #ffffff;
+  border-radius: 20px;
+  margin-left: 29%;
+  margin-top: 20px;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .rectangle-49{
+    width: 180%;
+  }
+  .maindiv{
+    width: 100%;
+    display: block !important;
+    padding: 50px;
+    margin-left: 66%;
+  }
+  .subdiv1{
+    width: 100% !important;
+  }
+  .subdiv2{
+    width: 100% !important;
+  }
+  .panel{
+    width: 100% !important;
+    margin-left: 65%;
+  }
+  .notice{
+    width: 100% !important;
+    margin-left: 65%;
+  }
+  #signup-form button{
+    margin-left: 109%;
+  } 
+}
+
+
+
+
+
+
+

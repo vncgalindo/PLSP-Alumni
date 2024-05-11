@@ -1,0 +1,278 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #8f2b2f;
+  height: 900px;
+  position: relative;
+  overflow: hidden;
+}
+.backdrop {
+  position: absolute;
+  inset: 0;
+}
+.group-15 {
+  width: 584px;
+  height: 900px;
+  position: static;
+}
+.rectangle-14 {
+  background: linear-gradient(
+    90deg,
+    rgba(217, 217, 217, 1) 0%,
+    rgba(37, 107, 44, 0) 60.50000190734863%
+  );
+  width: 584px;
+  height: 900px;
+  position: absolute;
+  left: 2px;
+  top: 0px;
+}
+.close-up-hands-holding-diplomas-caps-1 {
+  width: 586px;
+  height: 900px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  opacity: 0.6;
+}
+.close-up-hands-holding-diplomas-caps-1 .img{
+  opacity: 10px;
+}
+.group-12 {
+  width: 375px;
+  height: 181px;
+  position: static;
+}
+.portal {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 84px;
+  font-weight: 600;
+  position: absolute;
+  left: 211px;
+  top: 168px;
+}
+.alumni {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 86px;
+  font-weight: 600;
+  position: absolute;
+  left: 211px;
+  top: 89px;
+  width: 375px;
+  height: 89px;
+}
+.pamantasan-ng-lungsod-ng-san-pablo {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  opacity: 0.5;
+  position: absolute;
+  left: 211px;
+  top: 89px;
+}
+.welcome-home-our-dear-alumni {
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 64px;
+  font-weight: 600;
+  position: absolute;
+  left: 747px;
+  top: 79px;
+  width: 626px;
+  height: 234px;
+}
+.welcome-home-our-dear-alumni-span {
+  color: #ffffff;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 64px;
+  font-weight: 600;
+}
+.welcome-home-our-dear-alumni-span2 {
+  color: #ff5f66;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 64px;
+  font-weight: 600;
+}
+.welcome-home-our-dear-alumni-span3 {
+  color: #ffffff;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 64px;
+  font-weight: 600;
+}
+.please-login-to-catch-up-with-what-s-going-on-campus-right-now {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 747px;
+  top: 283px;
+  width: 491px;
+  height: 57px;
+}
+.password-input ::placeholder , .student-id-input ::placeholder{
+    color: #ffffff;
+}
+.password-input input{
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  background: rgba(217, 217, 217, 0);
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 359px;
+  height: 46px;
+  position: absolute;
+  left: 801px;
+  top: 499px;
+  padding: 15px;
+  color: #ffffff;
+}
+.student-id-input input {
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  background: rgba(217, 217, 217, 0);
+  width: 359px;
+  height: 46px;
+  position: absolute;
+  left: 801px;
+  top: 403px;
+  padding: 15px;
+  color: #ffffff;
+}
+.background-pill-welcome {
+  background: rgba(217, 217, 217, 0.16);
+  border-radius: 30px;
+  width: 611px;
+  height: 186px;
+  position: absolute;
+  left: 720px;
+  top: 61px;
+}
+.login {
+  background: #ffffff;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 113px;
+  height: 41px;
+  position: absolute;
+  left: 924px;
+  top: 586px;
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  padding: 8px;
+}
+.login:hover {
+  background-color: #8f2b2f;
+  transform: scale(1.05);
+  color: #ffffff;
+}
+.login2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 951px;
+  top: 594px;
+}
+.sign-up {
+  background: #8f2b2f;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 114px;
+  height: 42px;
+  position: absolute;
+  left: 924px;
+  top: 724px;
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+.sign-up:hover {
+  background-color: #ffffff;
+  transform: scale(1.05);
+  color: #000000;
+}
+.sign-up2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 942px;
+  top: 733px;
+}
+.group-2 {
+  height: auto;
+  position: absolute;
+  left: 730px;
+  top: 667px;
+  overflow: visible;
+}
+.or {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 970.02px;
+  top: 654px;
+  width: 26px;
+  height: 29px;
+}
+.logo {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-2 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 146.28px;
+  height: 144.87px;
+  position: absolute;
+  left: 49px;
+  top: 100px;
+}
+.image-1 {
+  width: 130.93px;
+  height: 131.6px;
+  position: absolute;
+  left: 56.52px;
+  top: 106.57px;
+  object-fit: cover;
+}
